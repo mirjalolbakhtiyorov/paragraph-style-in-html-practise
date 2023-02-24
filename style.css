@@ -1,0 +1,10 @@
+.style{
+ color:rgb(238, 237, 234);
+ background-color: blueviolet;
+ font-size: 25px;
+ border-radius: 13px;
+ font-family: 'Courier New', Courier, monospace;
+ font-weight: 100;
+ text-align: left;
+ opacity: 0.6;
+}
